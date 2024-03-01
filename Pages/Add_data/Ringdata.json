@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ring-1",
+    "image": "../../Images/ring1.png",
+    "carret": 18,
+    "weight": "100gm"
+  },
+  {
+    "id": 2,
+    "name": "Ring-2",
+    "image": "../../Images/ring2.png",
+    "carret": 20,
+    "weight": "200gm"
+  },
+  {
+    "id": 3,
+    "name": "Ring-3",
+    "image": "../../Images/ring3.png",
+    "carret": 22,
+    "weight": "300gm"
+  },
+  {
+    "id": 4,
+    "name": "Ring-4",
+    "image": "../../Images/ring4.png",
+    "carret": 22,
+    "weight": "400gm"
+  }
+]
